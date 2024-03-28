@@ -1,8 +1,0 @@
-#ignore readme.txt
-readme.txt
-
-#ignore copy
-*.~*
-
-#ignore build folder
-build/
