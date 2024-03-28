@@ -1,4 +1,10 @@
 body {
     margin: 40px 50px;
-    background-color: darkcyan;
+    background-color: rgb(214, 214, 214);
+}
+
+div {
+    background-color: black;
+    margin-top: 10px;
+    padding-right: 5px;
 }
